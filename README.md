@@ -1,3 +1,3 @@
 # test2
-test2
-change made in branch 1
+test continued
+more changes made in branch 1
